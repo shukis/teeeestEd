@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="Test_Android">
+    <test name="test_texts">
+        <classes>
+            <class name="TextTest"/>
+        </classes>
+    </test>
+</suite>
